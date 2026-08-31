@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-31",
+  "kind": "chain_reset",
+  "reason": "Testing phase. The hashed object carried fields that existed only so that earlier reports would still verify. The archive was rebuilt on the corrected shape rather than carrying them permanently.",
+  "previous_chain": {
+    "final_chain_hash": "9e45ff88091baf1ddae1d71d94bfc412756af0448966d97f1a00247c448a6621",
+    "report_count": 20,
+    "exported_at": "2026-08-31T16:04:41.683Z",
+    "anchors_published_against_it": [
+      {
+        "date": "2026-08-07",
+        "root_chain_hash": "d9059a4e214b4b5d1f6bffdcbd9bb6ce5c675cc13da2e30a48cbe9b71298745f",
+        "public_log_ref": "anchors/2026-08-07.json"
+      },
+      {
+        "date": "2026-08-08",
+        "root_chain_hash": "d9059a4e214b4b5d1f6bffdcbd9bb6ce5c675cc13da2e30a48cbe9b71298745f",
+        "public_log_ref": "anchors/2026-08-08.json"
+      },
+      {
+        "date": "2026-08-09",
+        "root_chain_hash": "d9059a4e214b4b5d1f6bffdcbd9bb6ce5c675cc13da2e30a48cbe9b71298745f",
+        "public_log_ref": "anchors/2026-08-09.json"
+      },
+      {
+        "date": "2026-08-10",
+        "root_chain_hash": "d9059a4e214b4b5d1f6bffdcbd9bb6ce5c675cc13da2e30a48cbe9b71298745f",
+        "public_log_ref": "anchors/2026-08-10.json"
+      },
+      {
+        "date": "2026-08-11",
+        "root_chain_hash": "d9059a4e214b4b5d1f6bffdcbd9bb6ce5c675cc13da2e30a48cbe9b71298745f",
+        "public_log_ref": "anchors/2026-08-11.json"
+      },
+      {
+        "date": "2026-08-12",
+        "root_chain_hash": "d9059a4e214b4b5d1f6bffdcbd9bb6ce5c675cc13da2e30a48cbe9b71298745f",
+        "public_log_ref": "anchors/2026-08-12.json"
+      },
+      {
+        "date": "2026-08-13",
+        "root_chain_hash": "d9059a4e214b4b5d1f6bffdcbd9bb6ce5c675cc13da2e30a48cbe9b71298745f",
+        "public_log_ref": "anchors/2026-08-13.json"
+      },
+      {
+        "date": "2026-08-14",
+        "root_chain_hash": "d9059a4e214b4b5d1f6bffdcbd9bb6ce5c675cc13da2e30a48cbe9b71298745f",
+        "public_log_ref": "anchors/2026-08-14.json"
+      },
+      {
+        "date": "2026-08-15",
+        "root_chain_hash": "d9059a4e214b4b5d1f6bffdcbd9bb6ce5c675cc13da2e30a48cbe9b71298745f",
+        "public_log_ref": "anchors/2026-08-15.json"
+      },
+      {
+        "date": "2026-08-16",
+        "root_chain_hash": "d9059a4e214b4b5d1f6bffdcbd9bb6ce5c675cc13da2e30a48cbe9b71298745f",
+        "public_log_ref": "anchors/2026-08-16.json"
+      },
+      {
+        "date": "2026-08-17",
+        "root_chain_hash": "d9059a4e214b4b5d1f6bffdcbd9bb6ce5c675cc13da2e30a48cbe9b71298745f",
+        "public_log_ref": "anchors/2026-08-17.json"
+      },
+      {
+        "date": "2026-08-18",
+        "root_chain_hash": "d9059a4e214b4b5d1f6bffdcbd9bb6ce5c675cc13da2e30a48cbe9b71298745f",
+        "public_log_ref": "anchors/2026-08-18.json"
+      },
+      {
+        "date": "2026-08-19",
+        "root_chain_hash": "d9059a4e214b4b5d1f6bffdcbd9bb6ce5c675cc13da2e30a48cbe9b71298745f",
+        "public_log_ref": "anchors/2026-08-19.json"
+      },
+      {
+        "date": "2026-08-20",
+        "root_chain_hash": "5582f9617f81440886b0bd4b0c23a28c506f6bca9ddd5f62e9aa2090c15759b9",
+        "public_log_ref": "anchors/2026-08-20.json"
+      },
+      {
+        "date": "2026-08-21",
+        "root_chain_hash": "5582f9617f81440886b0bd4b0c23a28c506f6bca9ddd5f62e9aa2090c15759b9",
+        "public_log_ref": "anchors/2026-08-21.json"
+      },
+      {
+        "date": "2026-08-22",
+        "root_chain_hash": "5582f9617f81440886b0bd4b0c23a28c506f6bca9ddd5f62e9aa2090c15759b9",
+        "public_log_ref": "anchors/2026-08-22.json"
+      },
+      {
+        "date": "2026-08-23",
+        "root_chain_hash": "5582f9617f81440886b0bd4b0c23a28c506f6bca9ddd5f62e9aa2090c15759b9",
+        "public_log_ref": "anchors/2026-08-23.json"
+      },
+      {
+        "date": "2026-08-24",
+        "root_chain_hash": "5582f9617f81440886b0bd4b0c23a28c506f6bca9ddd5f62e9aa2090c15759b9",
+        "public_log_ref": "anchors/2026-08-24.json"
+      },
+      {
+        "date": "2026-08-25",
+        "root_chain_hash": "3f0e8b0ed8a95eb4cfd67eecbcb359846793ad31c8156b1cb91992801ae26628",
+        "public_log_ref": "anchors/2026-08-25.json"
+      },
+      {
+        "date": "2026-08-26",
+        "root_chain_hash": "1be1c32dd8905df3cf193105bda864a658d18fc40f4b27976d73d754974395fa",
+        "public_log_ref": "anchors/2026-08-26.json"
+      },
+      {
+        "date": "2026-08-27",
+        "root_chain_hash": "1be1c32dd8905df3cf193105bda864a658d18fc40f4b27976d73d754974395fa",
+        "public_log_ref": "anchors/2026-08-27.json"
+      },
+      {
+        "date": "2026-08-28",
+        "root_chain_hash": "37d734e81f93e3ced68ab789c3b9bed7448ed8cdbc44767994ae4bff91fefb6c",
+        "public_log_ref": "anchors/2026-08-28.json"
+      },
+      {
+        "date": "2026-08-29",
+        "root_chain_hash": "9f607e81ce655bc273790bb1fa3cfb1551f75628b90360cf90287410b52cb34a",
+        "public_log_ref": "anchors/2026-08-29.json"
+      },
+      {
+        "date": "2026-08-30",
+        "root_chain_hash": "9f607e81ce655bc273790bb1fa3cfb1551f75628b90360cf90287410b52cb34a",
+        "public_log_ref": "anchors/2026-08-30.json"
+      },
+      {
+        "date": "2026-08-31",
+        "root_chain_hash": "9e45ff88091baf1ddae1d71d94bfc412756af0448966d97f1a00247c448a6621",
+        "public_log_ref": "anchors/2026-08-31.json"
+      }
+    ]
+  },
+  "new_chain": {
+    "genesis": "0000000000000000000000000000000000000000000000000000000000000000",
+    "head_after_reimport": "f2c2fa9a5bc87b82670e6390a8ab47fa5a32c633f4a7e2e47cb12ec9694cb801",
+    "report_count": 20
+  },
+  "reports_carried_over": 20,
+  "note": "No report was edited and none was deleted. The previous chain was closed and every report in it was written again into a new chain, keeping its reference, its text and the date it was filed. Every content and chain fingerprint was recomputed, so no fingerprint published before this date describes a report in the archive now."
+}
